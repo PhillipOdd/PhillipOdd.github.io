@@ -8,11 +8,16 @@
   background: url(bg3.jpeg);
   background-position: center;
   background-size: cover;
+<<<<<<< HEAD
+=======
+  height: 100vh;
+>>>>>>> 2005714ef8171db8d22622dab524ec82f8c74934
   position: relative;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
 
+<<<<<<< HEAD
 
 
   header {
@@ -39,6 +44,27 @@ width: 160px;
 cursor: pointer;
 margin-top: 0;
 margin: -2%
+=======
+.navigation{
+
+  width: 86%;
+  display: flex;
+  margin: auto;
+  padding: 15px 0;
+  align-items:center ;
+  justify-content: space-between
+  ;
+}
+
+
+.navigation .logo{
+width: 160px;
+cursor: pointer;
+margin-top: -3%;
+margin: -2%;
+margin-bottom: 50px 0;
+
+>>>>>>> 2005714ef8171db8d22622dab524ec82f8c74934
 
 }
 
